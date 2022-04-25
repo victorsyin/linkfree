@@ -2,7 +2,7 @@
 
 [Website](https://michaelbarney.github.io/LinkFree/Templates/Standard/)
 
-<img src="https://imgur.com/a/3LqwkPR" alt="Victor profile picture" width="250px">
+<img src="https://i.imgur.com/97DBPrz.jpg" alt="Victor profile picture" width="250px">
 
 ## How to Use
 ### index.html
@@ -16,7 +16,7 @@
  3. **Image**
 	 This is the user image that is shown. Make sure it is square and substitute the "src" property with its url. You can generate the url in a website like [imgur](https://imgur.com/).
 	```
-	<img  id="userPhoto"  src="https://imgur.com/a/3LqwkPR"  alt="User Photo">
+	<img  id="userPhoto"  src="https://i.imgur.com/97DBPrz.jpg"  alt="User Photo">
 	```
  4. **Username**
 	Your Instagram username. Change the "href" property with its url and add substitute the text with your @.
